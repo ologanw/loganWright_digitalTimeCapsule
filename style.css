@@ -1,0 +1,28 @@
+* {
+  margin: 0;
+  padding:0;
+  box-sizing: border-box;
+}
+
+body {
+  font-family: Georgia, 'Times New Roman', Times, serif;
+  background-image: linear linear-gradient(olivedrab, );
+  background-color: olivedrab;
+  color:rgb(246, 235, 218);
+}
+
+header { 
+  background-color: rgb(102, 190, 95);
+  color: rgb(246, 235, 218);
+  padding: 20px;
+  text-align: center;
+}
+
+nav {
+  text-align: center;
+}
+
+footer {
+  background-color: rgb(246, 235, 218);
+  color: 
+}
